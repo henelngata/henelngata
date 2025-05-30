@@ -10,7 +10,7 @@
 
 ## 🎯 **Mission: Crafting High-End Digital Experiences**  
 
-👋 **Hello there, I’m [Your Name]** – a **Full-Stack Engineer & Web3 Innovator** with a passion for building elegant, high-performance software solutions. Whether it's designing seamless user experiences, optimizing scalable backend systems, or diving into the world of **blockchain and decentralized applications**, I thrive on creating solutions that push technology forward.  
+👋 **Hello there, I’m Henry** – a **Full-Stack Engineer & Web3 Innovator** with a passion for building elegant, high-performance software solutions. Whether it's designing seamless user experiences, optimizing scalable backend systems, or diving into the world of **blockchain and decentralized applications**, I thrive on creating solutions that push technology forward.  
 
 💡 **What makes me different?** I blend creativity with precision, ensuring that every project I touch is both functional and beautifully engineered. *Think of me as the architect of digital luxury.*  
 
