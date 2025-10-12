@@ -2,9 +2,9 @@
 
 > *"Building the future, one commit at a time."*  
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=react)](https://yourportfolio.com)  
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)](https://github.com/henelngata)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/henrygathuru/)  
+
 
 ---
 
@@ -19,11 +19,12 @@
 ## 🎮 **Gamified Stats: Leveling Up Daily**  
 
 🧠 **Knowledge Points**:  
-- **Frontend Mastery** 🎨: HTML, CSS, JavaScript (ES6+), React  
-- **Backend Wizardry** 🔥: Node.js, Express.js, Python, PHP  
-- **Database Power-Up** 💾: PostgreSQL, MySQL, MongoDB  
+- **Frontend Mastery** 🎨: HTML, CSS, JavaScript (ES6+), React, React Native(Expo), Tanstack, Nextjs 
+- **Backend Wizardry** 🔥: FastAPI, Django, Express.js (Node.js), Laravel
+- **Database Power-Up** 💾: PostgreSQL, MySQL, MongoDB, PostgreSQL, Supabase, Neo4j, Graph Databases, Redis
 - **Web3 & Blockchain** 🛸: Solidity, Ethereum, Web3.js, IPFS  
-- **DevOps & CI/CD** ⚙️: Docker, GitHub Actions, Bash Scripting  
+- **DevOps & CI/CD** ⚙️: Docker, GitHub Actions, Bash Scripting, AWS (S3, EC2), Terraform, Vercel
+- **AI & Machine Learning** ⚙️: Large Language Models (LLMs), OpenAI API, Preprocessing Pipelines
 
 🌟 **Bonus Skills Unlocked**:  
 - UI/UX Design with a keen eye for pixel-perfect precision  
