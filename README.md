@@ -57,7 +57,7 @@
 📊 **AI-Powered Finance Tracker** *(Python, Flask, React)*  
 🔹 Created an **intelligent finance tracker** using **machine learning** to analyze spending patterns and forecast trends.  
 
-🎯 Want to see more? Check out my **[Repositories](https://github.com/yourusername?tab=repositories)**!  
+🎯 Want to see more? Check out my **[Repositories](https://github.com/henelngata?tab=repositories)**!  
 
 ---
 
